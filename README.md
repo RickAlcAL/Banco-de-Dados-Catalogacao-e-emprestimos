@@ -8,7 +8,7 @@ Este repositório foi criado para documentar meu **primeiro contato prático** c
 ---
 
 ## 🚀 Sobre o Aprendizado
-Iniciei este projeto com o intuito de transformar teoria em prática. Acredito que a melhor forma de me profissionalizar é "sujando as mãos" com código. Por isso, este repositório é um diário do meu progresso técnico.
+Iniciei este projeto com o intuito de transformar teoria em prática. Acredito que a melhor forma de me profissionalizar é botar em prática o teórico com código. Por isso, este repositório é um diário do meu progresso técnico.
 
 ## 🛠️ O que está sendo praticado:
 Atualmente, o foco está na **DQL (Data Query Language)**, onde desenvolvi queries para:
