@@ -1,34 +1,35 @@
-# 📊 Banco de Dados: Catalogação e Empréstimos
+# 📊 Banco de Dados: Catalogação e Exercícios Práticos
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![WorkBench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-green)
 
-Este repositório contém o meu **primeiro projeto prático** de Banco de Dados Relacional. O objetivo principal foi aplicar conceitos de modelagem e manipulação de dados utilizando o **MySQL Workbench**, explorando desde filtros básicos até lógicas mais complexas.
-
----
-
-## 🚀 Sobre o Projeto
-
-O projeto simula um sistema de catalogação e controle de pedidos/empréstimos. Os dados utilizados são **fictícios**, criados especificamente para exercitar a escrita de queries SQL.
-
-Este repositório serve como um portfólio da minha evolução, onde documentei o processo de aprendizado e a resolução de **50 desafios técnicos** de SQL, refinados com o auxílio de Inteligência Artificial para garantir as melhores práticas de mercado.
-
-## 🛠️ Tecnologias e Ferramentas
-* **MySQL**: Engine de banco de dados relacional.
-* **MySQL Workbench**: Ferramenta visual para modelagem e execução de scripts.
-* **SQL (DQL/DML)**: Linguagem de consulta estruturada.
-
-## 📝 O que foi praticado?
-Neste repositório, você encontrará queries que cobrem:
-- [x] Filtros avançados com `WHERE`, `AND`, `OR`.
-- [x] Agrupamentos e funções agregadas (`SUM`, `COUNT`, `GROUP BY`).
-- [x] Operadores lógicos e matemáticos (Módulo `%`, `LIKE`, `BETWEEN`, `IN`).
-- [x] Ordenação de dados com `ORDER BY` e tratamento de IDs.
-
-## 📈 Objetivo Profissional
-Meu foco com este projeto é aprimorar minhas habilidades em **Back-end e Data Science**, demonstrando capacidade técnica em estruturar e extrair informações valiosas de bancos de dados relacionais.
+Este repositório foi criado para documentar meu **primeiro contato prático** com Banco de Dados Relacional utilizando o **MySQL Workbench**. Aqui, utilizo dados fictícios para explorar o poder das consultas SQL e consolidar os fundamentos da tecnologia.
 
 ---
 
-**Desenvolvido por [Seu Nome]** 🚀  
-*Conecte-se comigo no [Link do seu LinkedIn]*
+## 🚀 Sobre o Aprendizado
+Iniciei este projeto com o intuito de transformar teoria em prática. Acredito que a melhor forma de me profissionalizar é "sujando as mãos" com código. Por isso, este repositório é um diário do meu progresso técnico.
+
+## 🛠️ O que está sendo praticado:
+Atualmente, o foco está na **DQL (Data Query Language)**, onde desenvolvi queries para:
+* **Filtros Personalizados:** Uso de `WHERE` com múltiplos operadores (`AND`, `OR`).
+* **Lógica Matemática:** Identificação de números pares, ímpares e múltiplos através do operador de módulo (`%`).
+* **Manipulação de Strings:** Filtros de texto com o operador `LIKE` e caracteres coringa.
+* **Agrupamento de Dados:** Consolidação de informações com `GROUP BY` e funções de soma (`SUM`).
+* **Ordenação de Relatórios:** Organização visual com `ORDER BY` (ASC/DESC).
+
+## 📚 Próximos Passos
+Este é apenas o começo! O repositório será atualizado constantemente com:
+- [ ] Queries de relacionamento entre tabelas (`INNER JOIN`, `LEFT JOIN`).
+- [ ] Criação de tabelas e inserção de dados (`DDL` e `DML`).
+- [ ] Resolução de novos conjuntos de exercícios práticos.
+- [ ] Documentação de boas práticas e otimização de consultas.
+
+---
+
+## 🎯 Objetivo Profissional
+Estou focado em construir uma base sólida em SQL para me profissionalizar e atuar com excelência no mercado de tecnologia, unindo lógica de programação ao gerenciamento eficiente de dados.
+
+---
+**Desenvolvido com dedicação por Ricardo Alcântara Alonso** 🚀  
+*Este projeto conta com o apoio de IA para refinamento de lógica e boas práticas.*
